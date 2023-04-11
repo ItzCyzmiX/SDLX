@@ -35,4 +35,4 @@ int main(int argc, char** argv)
 ```
 ## Download:
 ### Windows:
-go to the official github repo and download the latest realese of the library
+go to the official [github repo](https://github.com/CyzmiX/SDLX.github.io) and download the latest realese of the library
