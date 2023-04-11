@@ -1,6 +1,6 @@
-#SDLX
+# SDLX
 
-##A simpler version of the famous SDL library
+## A simpler version of the famous SDL library
 
 Example Code (creating a window):
 ```
@@ -33,6 +33,6 @@ int main(int argc, char** argv)
   return 0;
 }
 ```
-##Download:
-###Windows:
+## Download:
+### Windows:
 go to the official github repo and download the latest realese of the library
