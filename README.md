@@ -6,7 +6,7 @@
 
 Example Code (creating a window):
 
-```c
+```cpp
 int main(int argc, char** argv)
 {
   Window win("SDLX GAME!!", 600, 600);
@@ -17,9 +17,9 @@ int main(int argc, char** argv)
 
   while(run)
   {
-    while(e.checkEvents)
+    while(e.checkEvents())
     {
-      if (e.quit)
+      if (e.quit())
       {
         run = false;
         break;
