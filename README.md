@@ -33,7 +33,7 @@ int main(int argc, char** argv)
      win.endDrawing();  
   }
 
-  win.quit()
+  win.quit();
 
   return 0;
 }
