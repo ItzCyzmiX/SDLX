@@ -7,6 +7,8 @@
 Example Code (creating a window):
 
 ```cpp
+#include <SDLX/SDLX.hpp>
+
 int main(int argc, char** argv)
 {
   Window win("SDLX GAME!!", 600, 600);
