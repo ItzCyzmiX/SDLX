@@ -11,7 +11,7 @@ Example Code (creating a window):
 
 int main(int argc, char** argv)
 {
-  Window win("SDLX GAME!!", 600, 600);
+  Window win("SDLX GAME!!", 600, 600, true);
 
   bool run = true;
 
